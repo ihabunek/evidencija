@@ -1,0 +1,1272 @@
+[
+    {
+        "date": {
+            "day": 1,
+            "month": 1,
+            "year": 2011,
+            "dayOfWeek": 6
+        },
+        "localName": "Nova Godina",
+        "englishName": "New Year's Day"
+    },
+    {
+        "date": {
+            "day": 6,
+            "month": 1,
+            "year": 2011,
+            "dayOfWeek": 4
+        },
+        "localName": "Bogojavljanje ili Sveta tri kralja",
+        "englishName": "Epiphany"
+    },
+    {
+        "date": {
+            "day": 24,
+            "month": 4,
+            "year": 2011,
+            "dayOfWeek": 7
+        },
+        "localName": "Uskrs",
+        "englishName": "Easter Sunday"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 4,
+            "year": 2011,
+            "dayOfWeek": 1
+        },
+        "localName": "Uskrsni ponedjeljak",
+        "englishName": "Easter Monday"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2011,
+            "dayOfWeek": 7
+        },
+        "localName": "Praznik rada",
+        "englishName": "Labour Day"
+    },
+    {
+        "date": {
+            "day": 22,
+            "month": 6,
+            "year": 2011,
+            "dayOfWeek": 3
+        },
+        "localName": "Dan antifašističke borbe",
+        "englishName": "Anti-Fascist Struggle Day"
+    },
+    {
+        "date": {
+            "day": 23,
+            "month": 6,
+            "year": 2011,
+            "dayOfWeek": 4
+        },
+        "localName": "Tijelovo",
+        "englishName": "Corpus Christi"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 6,
+            "year": 2011,
+            "dayOfWeek": 6
+        },
+        "localName": "Dan državnosti",
+        "englishName": "Statehood Day"
+    },
+    {
+        "date": {
+            "day": 5,
+            "month": 8,
+            "year": 2011,
+            "dayOfWeek": 5
+        },
+        "localName": "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja",
+        "englishName": "Victory and Homeland Thanksgiving Day and the Day of Croatian defenders"
+    },
+    {
+        "date": {
+            "day": 15,
+            "month": 8,
+            "year": 2011,
+            "dayOfWeek": 1
+        },
+        "localName": "Velika Gospa",
+        "englishName": "Assumption of Mary"
+    },
+    {
+        "date": {
+            "day": 8,
+            "month": 10,
+            "year": 2011,
+            "dayOfWeek": 6
+        },
+        "localName": "Dan neovisnosti",
+        "englishName": "Independence Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 11,
+            "year": 2011,
+            "dayOfWeek": 2
+        },
+        "localName": "Svi sveti",
+        "englishName": "All Saints' Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 12,
+            "year": 2011,
+            "dayOfWeek": 7
+        },
+        "localName": "Božić",
+        "englishName": "Christmas Day"
+    },
+    {
+        "date": {
+            "day": 26,
+            "month": 12,
+            "year": 2011,
+            "dayOfWeek": 1
+        },
+        "localName": "Prvi dan po Božiću, Sveti Stjepan",
+        "englishName": "St Stephen's Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 1,
+            "year": 2012,
+            "dayOfWeek": 7
+        },
+        "localName": "Nova Godina",
+        "englishName": "New Year's Day"
+    },
+    {
+        "date": {
+            "day": 6,
+            "month": 1,
+            "year": 2012,
+            "dayOfWeek": 5
+        },
+        "localName": "Bogojavljanje ili Sveta tri kralja",
+        "englishName": "Epiphany"
+    },
+    {
+        "date": {
+            "day": 8,
+            "month": 4,
+            "year": 2012,
+            "dayOfWeek": 7
+        },
+        "localName": "Uskrs",
+        "englishName": "Easter Sunday"
+    },
+    {
+        "date": {
+            "day": 9,
+            "month": 4,
+            "year": 2012,
+            "dayOfWeek": 1
+        },
+        "localName": "Uskrsni ponedjeljak",
+        "englishName": "Easter Monday"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2012,
+            "dayOfWeek": 2
+        },
+        "localName": "Praznik rada",
+        "englishName": "Labour Day"
+    },
+    {
+        "date": {
+            "day": 7,
+            "month": 6,
+            "year": 2012,
+            "dayOfWeek": 4
+        },
+        "localName": "Tijelovo",
+        "englishName": "Corpus Christi"
+    },
+    {
+        "date": {
+            "day": 22,
+            "month": 6,
+            "year": 2012,
+            "dayOfWeek": 5
+        },
+        "localName": "Dan antifašističke borbe",
+        "englishName": "Anti-Fascist Struggle Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 6,
+            "year": 2012,
+            "dayOfWeek": 1
+        },
+        "localName": "Dan državnosti",
+        "englishName": "Statehood Day"
+    },
+    {
+        "date": {
+            "day": 5,
+            "month": 8,
+            "year": 2012,
+            "dayOfWeek": 7
+        },
+        "localName": "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja",
+        "englishName": "Victory and Homeland Thanksgiving Day and the Day of Croatian defenders"
+    },
+    {
+        "date": {
+            "day": 15,
+            "month": 8,
+            "year": 2012,
+            "dayOfWeek": 3
+        },
+        "localName": "Velika Gospa",
+        "englishName": "Assumption of Mary"
+    },
+    {
+        "date": {
+            "day": 8,
+            "month": 10,
+            "year": 2012,
+            "dayOfWeek": 1
+        },
+        "localName": "Dan neovisnosti",
+        "englishName": "Independence Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 11,
+            "year": 2012,
+            "dayOfWeek": 4
+        },
+        "localName": "Svi sveti",
+        "englishName": "All Saints' Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 12,
+            "year": 2012,
+            "dayOfWeek": 2
+        },
+        "localName": "Božić",
+        "englishName": "Christmas Day"
+    },
+    {
+        "date": {
+            "day": 26,
+            "month": 12,
+            "year": 2012,
+            "dayOfWeek": 3
+        },
+        "localName": "Prvi dan po Božiću, Sveti Stjepan",
+        "englishName": "St Stephen's Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 1,
+            "year": 2013,
+            "dayOfWeek": 2
+        },
+        "localName": "Nova Godina",
+        "englishName": "New Year's Day"
+    },
+    {
+        "date": {
+            "day": 6,
+            "month": 1,
+            "year": 2013,
+            "dayOfWeek": 7
+        },
+        "localName": "Bogojavljanje ili Sveta tri kralja",
+        "englishName": "Epiphany"
+    },
+    {
+        "date": {
+            "day": 31,
+            "month": 3,
+            "year": 2013,
+            "dayOfWeek": 7
+        },
+        "localName": "Uskrs",
+        "englishName": "Easter Sunday"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 4,
+            "year": 2013,
+            "dayOfWeek": 1
+        },
+        "localName": "Uskrsni ponedjeljak",
+        "englishName": "Easter Monday"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2013,
+            "dayOfWeek": 3
+        },
+        "localName": "Praznik rada",
+        "englishName": "Labour Day"
+    },
+    {
+        "date": {
+            "day": 30,
+            "month": 5,
+            "year": 2013,
+            "dayOfWeek": 4
+        },
+        "localName": "Tijelovo",
+        "englishName": "Corpus Christi"
+    },
+    {
+        "date": {
+            "day": 22,
+            "month": 6,
+            "year": 2013,
+            "dayOfWeek": 6
+        },
+        "localName": "Dan antifašističke borbe",
+        "englishName": "Anti-Fascist Struggle Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 6,
+            "year": 2013,
+            "dayOfWeek": 2
+        },
+        "localName": "Dan državnosti",
+        "englishName": "Statehood Day"
+    },
+    {
+        "date": {
+            "day": 5,
+            "month": 8,
+            "year": 2013,
+            "dayOfWeek": 1
+        },
+        "localName": "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja",
+        "englishName": "Victory and Homeland Thanksgiving Day and the Day of Croatian defenders"
+    },
+    {
+        "date": {
+            "day": 15,
+            "month": 8,
+            "year": 2013,
+            "dayOfWeek": 4
+        },
+        "localName": "Velika Gospa",
+        "englishName": "Assumption of Mary"
+    },
+    {
+        "date": {
+            "day": 8,
+            "month": 10,
+            "year": 2013,
+            "dayOfWeek": 2
+        },
+        "localName": "Dan neovisnosti",
+        "englishName": "Independence Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 11,
+            "year": 2013,
+            "dayOfWeek": 5
+        },
+        "localName": "Svi sveti",
+        "englishName": "All Saints' Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 12,
+            "year": 2013,
+            "dayOfWeek": 3
+        },
+        "localName": "Božić",
+        "englishName": "Christmas Day"
+    },
+    {
+        "date": {
+            "day": 26,
+            "month": 12,
+            "year": 2013,
+            "dayOfWeek": 4
+        },
+        "localName": "Prvi dan po Božiću, Sveti Stjepan",
+        "englishName": "St Stephen's Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 1,
+            "year": 2014,
+            "dayOfWeek": 3
+        },
+        "localName": "Nova Godina",
+        "englishName": "New Year's Day"
+    },
+    {
+        "date": {
+            "day": 6,
+            "month": 1,
+            "year": 2014,
+            "dayOfWeek": 1
+        },
+        "localName": "Bogojavljanje ili Sveta tri kralja",
+        "englishName": "Epiphany"
+    },
+    {
+        "date": {
+            "day": 20,
+            "month": 4,
+            "year": 2014,
+            "dayOfWeek": 7
+        },
+        "localName": "Uskrs",
+        "englishName": "Easter Sunday"
+    },
+    {
+        "date": {
+            "day": 21,
+            "month": 4,
+            "year": 2014,
+            "dayOfWeek": 1
+        },
+        "localName": "Uskrsni ponedjeljak",
+        "englishName": "Easter Monday"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2014,
+            "dayOfWeek": 4
+        },
+        "localName": "Praznik rada",
+        "englishName": "Labour Day"
+    },
+    {
+        "date": {
+            "day": 19,
+            "month": 6,
+            "year": 2014,
+            "dayOfWeek": 4
+        },
+        "localName": "Tijelovo",
+        "englishName": "Corpus Christi"
+    },
+    {
+        "date": {
+            "day": 22,
+            "month": 6,
+            "year": 2014,
+            "dayOfWeek": 7
+        },
+        "localName": "Dan antifašističke borbe",
+        "englishName": "Anti-Fascist Struggle Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 6,
+            "year": 2014,
+            "dayOfWeek": 3
+        },
+        "localName": "Dan državnosti",
+        "englishName": "Statehood Day"
+    },
+    {
+        "date": {
+            "day": 5,
+            "month": 8,
+            "year": 2014,
+            "dayOfWeek": 2
+        },
+        "localName": "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja",
+        "englishName": "Victory and Homeland Thanksgiving Day and the Day of Croatian defenders"
+    },
+    {
+        "date": {
+            "day": 15,
+            "month": 8,
+            "year": 2014,
+            "dayOfWeek": 5
+        },
+        "localName": "Velika Gospa",
+        "englishName": "Assumption of Mary"
+    },
+    {
+        "date": {
+            "day": 8,
+            "month": 10,
+            "year": 2014,
+            "dayOfWeek": 3
+        },
+        "localName": "Dan neovisnosti",
+        "englishName": "Independence Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 11,
+            "year": 2014,
+            "dayOfWeek": 6
+        },
+        "localName": "Svi sveti",
+        "englishName": "All Saints' Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 12,
+            "year": 2014,
+            "dayOfWeek": 4
+        },
+        "localName": "Božić",
+        "englishName": "Christmas Day"
+    },
+    {
+        "date": {
+            "day": 26,
+            "month": 12,
+            "year": 2014,
+            "dayOfWeek": 5
+        },
+        "localName": "Prvi dan po Božiću, Sveti Stjepan",
+        "englishName": "St Stephen's Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 1,
+            "year": 2015,
+            "dayOfWeek": 4
+        },
+        "localName": "Nova Godina",
+        "englishName": "New Year's Day"
+    },
+    {
+        "date": {
+            "day": 6,
+            "month": 1,
+            "year": 2015,
+            "dayOfWeek": 2
+        },
+        "localName": "Bogojavljanje ili Sveta tri kralja",
+        "englishName": "Epiphany"
+    },
+    {
+        "date": {
+            "day": 5,
+            "month": 4,
+            "year": 2015,
+            "dayOfWeek": 7
+        },
+        "localName": "Uskrs",
+        "englishName": "Easter Sunday"
+    },
+    {
+        "date": {
+            "day": 6,
+            "month": 4,
+            "year": 2015,
+            "dayOfWeek": 1
+        },
+        "localName": "Uskrsni ponedjeljak",
+        "englishName": "Easter Monday"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2015,
+            "dayOfWeek": 5
+        },
+        "localName": "Praznik rada",
+        "englishName": "Labour Day"
+    },
+    {
+        "date": {
+            "day": 4,
+            "month": 6,
+            "year": 2015,
+            "dayOfWeek": 4
+        },
+        "localName": "Tijelovo",
+        "englishName": "Corpus Christi"
+    },
+    {
+        "date": {
+            "day": 22,
+            "month": 6,
+            "year": 2015,
+            "dayOfWeek": 1
+        },
+        "localName": "Dan antifašističke borbe",
+        "englishName": "Anti-Fascist Struggle Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 6,
+            "year": 2015,
+            "dayOfWeek": 4
+        },
+        "localName": "Dan državnosti",
+        "englishName": "Statehood Day"
+    },
+    {
+        "date": {
+            "day": 5,
+            "month": 8,
+            "year": 2015,
+            "dayOfWeek": 3
+        },
+        "localName": "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja",
+        "englishName": "Victory and Homeland Thanksgiving Day and the Day of Croatian defenders"
+    },
+    {
+        "date": {
+            "day": 15,
+            "month": 8,
+            "year": 2015,
+            "dayOfWeek": 6
+        },
+        "localName": "Velika Gospa",
+        "englishName": "Assumption of Mary"
+    },
+    {
+        "date": {
+            "day": 8,
+            "month": 10,
+            "year": 2015,
+            "dayOfWeek": 4
+        },
+        "localName": "Dan neovisnosti",
+        "englishName": "Independence Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 11,
+            "year": 2015,
+            "dayOfWeek": 7
+        },
+        "localName": "Svi sveti",
+        "englishName": "All Saints' Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 12,
+            "year": 2015,
+            "dayOfWeek": 5
+        },
+        "localName": "Božić",
+        "englishName": "Christmas Day"
+    },
+    {
+        "date": {
+            "day": 26,
+            "month": 12,
+            "year": 2015,
+            "dayOfWeek": 6
+        },
+        "localName": "Prvi dan po Božiću, Sveti Stjepan",
+        "englishName": "St Stephen's Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 1,
+            "year": 2016,
+            "dayOfWeek": 5
+        },
+        "localName": "Nova Godina",
+        "englishName": "New Year's Day"
+    },
+    {
+        "date": {
+            "day": 6,
+            "month": 1,
+            "year": 2016,
+            "dayOfWeek": 3
+        },
+        "localName": "Bogojavljanje ili Sveta tri kralja",
+        "englishName": "Epiphany"
+    },
+    {
+        "date": {
+            "day": 27,
+            "month": 3,
+            "year": 2016,
+            "dayOfWeek": 7
+        },
+        "localName": "Uskrs",
+        "englishName": "Easter Sunday"
+    },
+    {
+        "date": {
+            "day": 28,
+            "month": 3,
+            "year": 2016,
+            "dayOfWeek": 1
+        },
+        "localName": "Uskrsni ponedjeljak",
+        "englishName": "Easter Monday"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2016,
+            "dayOfWeek": 7
+        },
+        "localName": "Praznik rada",
+        "englishName": "Labour Day"
+    },
+    {
+        "date": {
+            "day": 26,
+            "month": 5,
+            "year": 2016,
+            "dayOfWeek": 4
+        },
+        "localName": "Tijelovo",
+        "englishName": "Corpus Christi"
+    },
+    {
+        "date": {
+            "day": 22,
+            "month": 6,
+            "year": 2016,
+            "dayOfWeek": 3
+        },
+        "localName": "Dan antifašističke borbe",
+        "englishName": "Anti-Fascist Struggle Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 6,
+            "year": 2016,
+            "dayOfWeek": 6
+        },
+        "localName": "Dan državnosti",
+        "englishName": "Statehood Day"
+    },
+    {
+        "date": {
+            "day": 5,
+            "month": 8,
+            "year": 2016,
+            "dayOfWeek": 5
+        },
+        "localName": "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja",
+        "englishName": "Victory and Homeland Thanksgiving Day and the Day of Croatian defenders"
+    },
+    {
+        "date": {
+            "day": 15,
+            "month": 8,
+            "year": 2016,
+            "dayOfWeek": 1
+        },
+        "localName": "Velika Gospa",
+        "englishName": "Assumption of Mary"
+    },
+    {
+        "date": {
+            "day": 8,
+            "month": 10,
+            "year": 2016,
+            "dayOfWeek": 6
+        },
+        "localName": "Dan neovisnosti",
+        "englishName": "Independence Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 11,
+            "year": 2016,
+            "dayOfWeek": 2
+        },
+        "localName": "Svi sveti",
+        "englishName": "All Saints' Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 12,
+            "year": 2016,
+            "dayOfWeek": 7
+        },
+        "localName": "Božić",
+        "englishName": "Christmas Day"
+    },
+    {
+        "date": {
+            "day": 26,
+            "month": 12,
+            "year": 2016,
+            "dayOfWeek": 1
+        },
+        "localName": "Prvi dan po Božiću, Sveti Stjepan",
+        "englishName": "St Stephen's Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 1,
+            "year": 2017,
+            "dayOfWeek": 7
+        },
+        "localName": "Nova Godina",
+        "englishName": "New Year's Day"
+    },
+    {
+        "date": {
+            "day": 6,
+            "month": 1,
+            "year": 2017,
+            "dayOfWeek": 5
+        },
+        "localName": "Bogojavljanje ili Sveta tri kralja",
+        "englishName": "Epiphany"
+    },
+    {
+        "date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017,
+            "dayOfWeek": 7
+        },
+        "localName": "Uskrs",
+        "englishName": "Easter Sunday"
+    },
+    {
+        "date": {
+            "day": 17,
+            "month": 4,
+            "year": 2017,
+            "dayOfWeek": 1
+        },
+        "localName": "Uskrsni ponedjeljak",
+        "englishName": "Easter Monday"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2017,
+            "dayOfWeek": 1
+        },
+        "localName": "Praznik rada",
+        "englishName": "Labour Day"
+    },
+    {
+        "date": {
+            "day": 15,
+            "month": 6,
+            "year": 2017,
+            "dayOfWeek": 4
+        },
+        "localName": "Tijelovo",
+        "englishName": "Corpus Christi"
+    },
+    {
+        "date": {
+            "day": 22,
+            "month": 6,
+            "year": 2017,
+            "dayOfWeek": 4
+        },
+        "localName": "Dan antifašističke borbe",
+        "englishName": "Anti-Fascist Struggle Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 6,
+            "year": 2017,
+            "dayOfWeek": 7
+        },
+        "localName": "Dan državnosti",
+        "englishName": "Statehood Day"
+    },
+    {
+        "date": {
+            "day": 5,
+            "month": 8,
+            "year": 2017,
+            "dayOfWeek": 6
+        },
+        "localName": "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja",
+        "englishName": "Victory and Homeland Thanksgiving Day and the Day of Croatian defenders"
+    },
+    {
+        "date": {
+            "day": 15,
+            "month": 8,
+            "year": 2017,
+            "dayOfWeek": 2
+        },
+        "localName": "Velika Gospa",
+        "englishName": "Assumption of Mary"
+    },
+    {
+        "date": {
+            "day": 8,
+            "month": 10,
+            "year": 2017,
+            "dayOfWeek": 7
+        },
+        "localName": "Dan neovisnosti",
+        "englishName": "Independence Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 11,
+            "year": 2017,
+            "dayOfWeek": 3
+        },
+        "localName": "Svi sveti",
+        "englishName": "All Saints' Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 12,
+            "year": 2017,
+            "dayOfWeek": 1
+        },
+        "localName": "Božić",
+        "englishName": "Christmas Day"
+    },
+    {
+        "date": {
+            "day": 26,
+            "month": 12,
+            "year": 2017,
+            "dayOfWeek": 2
+        },
+        "localName": "Prvi dan po Božiću, Sveti Stjepan",
+        "englishName": "St Stephen's Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 1,
+            "year": 2018,
+            "dayOfWeek": 1
+        },
+        "localName": "Nova Godina",
+        "englishName": "New Year's Day"
+    },
+    {
+        "date": {
+            "day": 6,
+            "month": 1,
+            "year": 2018,
+            "dayOfWeek": 6
+        },
+        "localName": "Bogojavljanje ili Sveta tri kralja",
+        "englishName": "Epiphany"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 4,
+            "year": 2018,
+            "dayOfWeek": 7
+        },
+        "localName": "Uskrs",
+        "englishName": "Easter Sunday"
+    },
+    {
+        "date": {
+            "day": 2,
+            "month": 4,
+            "year": 2018,
+            "dayOfWeek": 1
+        },
+        "localName": "Uskrsni ponedjeljak",
+        "englishName": "Easter Monday"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2018,
+            "dayOfWeek": 2
+        },
+        "localName": "Praznik rada",
+        "englishName": "Labour Day"
+    },
+    {
+        "date": {
+            "day": 31,
+            "month": 5,
+            "year": 2018,
+            "dayOfWeek": 4
+        },
+        "localName": "Tijelovo",
+        "englishName": "Corpus Christi"
+    },
+    {
+        "date": {
+            "day": 22,
+            "month": 6,
+            "year": 2018,
+            "dayOfWeek": 5
+        },
+        "localName": "Dan antifašističke borbe",
+        "englishName": "Anti-Fascist Struggle Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 6,
+            "year": 2018,
+            "dayOfWeek": 1
+        },
+        "localName": "Dan državnosti",
+        "englishName": "Statehood Day"
+    },
+    {
+        "date": {
+            "day": 5,
+            "month": 8,
+            "year": 2018,
+            "dayOfWeek": 7
+        },
+        "localName": "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja",
+        "englishName": "Victory and Homeland Thanksgiving Day and the Day of Croatian defenders"
+    },
+    {
+        "date": {
+            "day": 15,
+            "month": 8,
+            "year": 2018,
+            "dayOfWeek": 3
+        },
+        "localName": "Velika Gospa",
+        "englishName": "Assumption of Mary"
+    },
+    {
+        "date": {
+            "day": 8,
+            "month": 10,
+            "year": 2018,
+            "dayOfWeek": 1
+        },
+        "localName": "Dan neovisnosti",
+        "englishName": "Independence Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 11,
+            "year": 2018,
+            "dayOfWeek": 4
+        },
+        "localName": "Svi sveti",
+        "englishName": "All Saints' Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 12,
+            "year": 2018,
+            "dayOfWeek": 2
+        },
+        "localName": "Božić",
+        "englishName": "Christmas Day"
+    },
+    {
+        "date": {
+            "day": 26,
+            "month": 12,
+            "year": 2018,
+            "dayOfWeek": 3
+        },
+        "localName": "Prvi dan po Božiću, Sveti Stjepan",
+        "englishName": "St Stephen's Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 1,
+            "year": 2019,
+            "dayOfWeek": 2
+        },
+        "localName": "Nova Godina",
+        "englishName": "New Year's Day"
+    },
+    {
+        "date": {
+            "day": 6,
+            "month": 1,
+            "year": 2019,
+            "dayOfWeek": 7
+        },
+        "localName": "Bogojavljanje ili Sveta tri kralja",
+        "englishName": "Epiphany"
+    },
+    {
+        "date": {
+            "day": 21,
+            "month": 4,
+            "year": 2019,
+            "dayOfWeek": 7
+        },
+        "localName": "Uskrs",
+        "englishName": "Easter Sunday"
+    },
+    {
+        "date": {
+            "day": 22,
+            "month": 4,
+            "year": 2019,
+            "dayOfWeek": 1
+        },
+        "localName": "Uskrsni ponedjeljak",
+        "englishName": "Easter Monday"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2019,
+            "dayOfWeek": 3
+        },
+        "localName": "Praznik rada",
+        "englishName": "Labour Day"
+    },
+    {
+        "date": {
+            "day": 20,
+            "month": 6,
+            "year": 2019,
+            "dayOfWeek": 4
+        },
+        "localName": "Tijelovo",
+        "englishName": "Corpus Christi"
+    },
+    {
+        "date": {
+            "day": 22,
+            "month": 6,
+            "year": 2019,
+            "dayOfWeek": 6
+        },
+        "localName": "Dan antifašističke borbe",
+        "englishName": "Anti-Fascist Struggle Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 6,
+            "year": 2019,
+            "dayOfWeek": 2
+        },
+        "localName": "Dan državnosti",
+        "englishName": "Statehood Day"
+    },
+    {
+        "date": {
+            "day": 5,
+            "month": 8,
+            "year": 2019,
+            "dayOfWeek": 1
+        },
+        "localName": "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja",
+        "englishName": "Victory and Homeland Thanksgiving Day and the Day of Croatian defenders"
+    },
+    {
+        "date": {
+            "day": 15,
+            "month": 8,
+            "year": 2019,
+            "dayOfWeek": 4
+        },
+        "localName": "Velika Gospa",
+        "englishName": "Assumption of Mary"
+    },
+    {
+        "date": {
+            "day": 8,
+            "month": 10,
+            "year": 2019,
+            "dayOfWeek": 2
+        },
+        "localName": "Dan neovisnosti",
+        "englishName": "Independence Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 11,
+            "year": 2019,
+            "dayOfWeek": 5
+        },
+        "localName": "Svi sveti",
+        "englishName": "All Saints' Day"
+    },
+    {
+        "date": {
+            "day": 25,
+            "month": 12,
+            "year": 2019,
+            "dayOfWeek": 3
+        },
+        "localName": "Božić",
+        "englishName": "Christmas Day"
+    },
+    {
+        "date": {
+            "day": 26,
+            "month": 12,
+            "year": 2019,
+            "dayOfWeek": 4
+        },
+        "localName": "Prvi dan po Božiću, Sveti Stjepan",
+        "englishName": "St Stephen's Day"
+    },
+    {
+        "date": {
+            "day": 1,
+            "month": 1,
+            "year": 2020,
+            "dayOfWeek": 3
+        },
+        "localName": "Nova Godina",
+        "englishName": "New Year's Day"
+    }
+]
