@@ -19,13 +19,14 @@ function company(state = initialCompany, action) {
 }
 
 function employees(state = initialEmployees, action) {
-    switch (action.type) {
-        case ADD_EMPLOYEE:
-            return state.concat([
-                { name: action.name }
-            ])
-        case REMOVE_EMPLOYEE:
-            return state.filter((el, idx) => idx !== action.index)
+    if (action.type === ADD_EMPLOYEE) {
+        return state.concat([
+            { name: action.name }
+        ])
+    }
+
+    if (action.type === REMOVE_EMPLOYEE) {
+        return state.filter((el, idx) => idx !== action.index)
     }
 
     return state
