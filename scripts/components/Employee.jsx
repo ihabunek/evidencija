@@ -1,6 +1,9 @@
-import React from 'react'
+import React, { PropTypes } from 'react'
 
-export const Employee = React.createClass({
+const Employee = React.createClass({
+    propTypes: {
+        name: PropTypes.string.isRequired,
+    },
     render: function () {
         return (
             <li className="employee">
@@ -9,3 +12,5 @@ export const Employee = React.createClass({
         )
     }
 })
+
+export default Employee

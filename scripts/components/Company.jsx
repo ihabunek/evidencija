@@ -1,11 +1,10 @@
 import React, { PropTypes } from 'react'
 import { connect } from 'react-redux'
-import { EmployeeList } from './EmployeeList.jsx'
+import EmployeeList from './EmployeeList.jsx'
 
 let Company = React.createClass({
     propTypes: {
         company: PropTypes.object.isRequired,
-        employees: PropTypes.array.isRequired,
     },
     render: function () {
         return (
@@ -17,7 +16,7 @@ let Company = React.createClass({
                     <input name="oib" type="text" placeholder="OIB" defaultValue={this.props.company.oib} />
                 </fieldset>
 
-                <EmployeeList employees={this.props.employees} />
+                <EmployeeList />
             </div>
         )
     }
@@ -25,8 +24,7 @@ let Company = React.createClass({
 
 const stateToProps = (state) => {
     return {
-        company: state.company,
-        employees: state.employees,
+        company: state.company
     }
 }
 
