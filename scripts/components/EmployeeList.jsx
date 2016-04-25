@@ -9,7 +9,7 @@ let EmployeeList = React.createClass({
     },
     render: function () {
         const nodes = this.props.employees.map(function (employee, index) {
-            return <Employee key={index} {...employee} />
+            return <Employee key={index} id={index} name={employee.name} />
         })
 
         return (

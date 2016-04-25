@@ -1,4 +1,4 @@
-export default holidays = {
+const holidays = {
     "2011": {
         "2011-01-01": "Nova Godina",
         "2011-01-06": "Bogojavljanje ili Sveta tri kralja",
@@ -144,3 +144,5 @@ export default holidays = {
         "2019-12-26": "Prvi dan po Bo\u017ei\u0107u, Sveti Stjepan"
     }
 }
+
+export default holidays

@@ -1,5 +1,6 @@
 import { combineReducers } from 'redux'
-import { ADD_EMPLOYEE, REMOVE_EMPLOYEE } from './actions.jsx'
+import { ADD_EMPLOYEE, REMOVE_EMPLOYEE, SELECT_EMPLOYEE } from './actions.jsx'
+import { moment } from 'moment'
 
 const initialCompany = {
     name: "Big Fish Software",
@@ -32,4 +33,13 @@ function employees(state = initialEmployees, action) {
     return state
 }
 
-export default combineReducers({ company, employees })
+function chart(state = { year: 2015 }, action) {
+    if (action.type === SELECT_EMPLOYEE) {
+        return Object.assign({}, state, { employee: action.employee })
+    }
+
+    return state
+}
+
+
+export default combineReducers({ company, employees, chart })

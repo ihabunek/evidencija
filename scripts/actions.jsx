@@ -9,3 +9,9 @@ export const removeEmployee = (index) => ({
     type: REMOVE_EMPLOYEE,
     index
 })
+
+export const SELECT_EMPLOYEE = 'SELECT_EMPLOYEE'
+export const selectEmployee = (employee) => ({
+    type: SELECT_EMPLOYEE,
+    employee
+})

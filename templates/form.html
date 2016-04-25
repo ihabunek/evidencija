@@ -2,10 +2,22 @@
 
 {% block title %}Evidencija{% endblock %}
 
+{% block head %}
+<style type="text/css">
+    .chart-month { font-size: .8rem }
+    .weekend { background-color: rgba(255, 0, 0, 0.2); }
+    .holiday { background-color: rgba(0, 255, 0, 0.1); }
+</style>
+{% endblock %}
+
+
 {% block content %}
 <div id="content"></div>
 {% endblock %}
 
 {% block script %}
+<script type="text/javascript">
+    is_new = {{ "true" if new else "false" }};
+</script>
 <script type="text/javascript" src="/static/bundle.js"></script>
 {% endblock %}

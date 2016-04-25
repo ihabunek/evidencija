@@ -22,10 +22,10 @@ let AddEmployee = React.createClass({
 
 const mapDispatchToProps = (dispatch) => {
     return {
-        handleClick: (a) => {
-            if (a.value) {
-                dispatch(addEmployee(a.value))
-                a.value = ""
+        handleClick: (input) => {
+            if (input.value) {
+                dispatch(addEmployee(input.value))
+                input.value = ""
             }
         }
     }
